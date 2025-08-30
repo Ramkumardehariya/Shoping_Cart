@@ -1,0 +1,8 @@
+# Ignore a folder named "node_modules"
+node_modules/
+
+# Ignore a folder named "dist"
+dist/
+
+# Ignore any folder named "temp" anywhere in the project
+**/temp/
